@@ -10,6 +10,7 @@ import sys
 import fire
 import questionary
 from pathlib import Path
+import csv
 
 from qualifier.utils.fileio import load_csv
 
@@ -110,6 +111,24 @@ def save_qualifying_loans(qualifying_loans):
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
+    #Requests a file path for the qualifying bank loans from the user via the command line. 
+    csvpath = questionary.text("Enter a file path save the qualifying bank loans (.csv):").ask()
+    csvpath = Path(csvpath)
+    #ensures the csv path exists before attempting to write to the CSV path. 
+    if csvpath.exists():
+        with open(csvpath, 'w', newline='') as file:
+            csvwriter = csv.writer(file)
+
+            #Writes the header row 
+            #csvwriter.writerow(header)
+
+            # Adds the loans from the inexpensive loan data dictionary into the csv file. 
+            for loan in qualifying_loans:
+                csvwriter.writerow(loan.values())
+    else: 
+        sys.exit(f"Oops! Can't find this path: {csvpath}")
+
+    return load_csv(csvpath)
 
 
 def run():
