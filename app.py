@@ -15,7 +15,6 @@ import csv
 
 from qualifier.utils.fileio import load_csv
 from qualifier.utils.save_csv import save_csv
-from qualifier.utils.checkforqualifiedloans import check_for_null_list_of_qualified_loans
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
