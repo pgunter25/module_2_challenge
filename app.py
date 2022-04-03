@@ -116,19 +116,41 @@ def save_qualifying_loans(qualifying_loans):
     csvpath = Path(csvpath)
     #ensures the csv path exists before attempting to write to the CSV path. 
     if csvpath.exists():
-        with open(csvpath, 'w', newline='') as file:
-            csvwriter = csv.writer(file)
+        save_csv(csvpath, qualifying_loans)
+        #with open(csvpath, 'w', newline='') as file:
+            #csvwriter = csv.writer(file)
 
             #Writes the header row 
             #csvwriter.writerow(header)
 
             # Adds the loans from the inexpensive loan data dictionary into the csv file. 
-            for loan in qualifying_loans:
-                csvwriter.writerow(loan.values())
+            #for loan in qualifying_loans:
+                #csvwriter.writerow(loan.values())
     else: 
         sys.exit(f"Oops! Can't find this path: {csvpath}")
 
     return load_csv(csvpath)
+
+def save_csv(output_path, list):
+    #header = ["loan_price", "remaining_months", "repayment_interval", "future_value"]
+
+# @TODO: Use the csv library and `csv.writer` to write the header row
+# and each row of `loan.values()` from the `inexpensive_loans` list.
+
+    '''Testing code to see which loans made it into the list. '''
+    #for x in range(len(list)):
+        #print(list[x])
+
+    with open(output_path, 'w', newline='') as csvfile:
+        csvwriter = csv.writer(csvfile)
+        # Adds the loans from the inexpensive loan data dictionary into the csv file. 
+        for row in list:
+           #csvwriter.writerow(row.values())
+           csvwriter.writerow(row)
+    #Writes the header row 
+    #csvwriter.writerow(header)
+
+  
 
 
 def run():
