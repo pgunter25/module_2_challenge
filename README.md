@@ -1,24 +1,17 @@
 # Loan Qualifying App with Interactice CLI 
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This is a python application that leverages questionary to automate the creation of an interactive command line interface with the user to find out which loans they are qualified for. 
 
 ---
 
 ## Technologies
 
 Requirements 
-Python v 3.7 
-
-Imports to Application  
-```import sys
-import fire
-import questionary
-from pathlib import Path
-import csv
+```code
+Python v3.7 
+Fire v0.3.1
+Questionary v1.5.2
 ```
-This is a python application that leverages questionary to automate the creation of an interactive command line interface with the user. 
-
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
 ---
 
@@ -48,33 +41,13 @@ This application can be run via the command line.
     pip install fire
     ```
 
-2. Open [`atm.py`](atm/atm.py) and review the Python script. Then open [`utils.py`](atm/utils.py) and [`make_withdrawal.py`](atm/actions/make_withdrawal.py). You'll be completing the following functions:
+2. Clone the git repo by following the instructions below 
 
-  * `verify_pin(pin)`, located in the utils module
+```code
+    git clone https://github.com/pgunter25/module_2_challenge.git
+    ```
 
-    * Verify that the length of the pin is six characters.
-
-      * If true, print a validation message and return `True`.
-
-      * If false, then return `False`.
-
-  * `make_withdrawal(account)`, located in the actions folder
-
-    * Use `make_deposit(account)` as a guide.
-
-    * Complete the docstring using the docstring from `make_deposit(account)` as a guide.
-
-    * Use the Questionary library to ask the user how much they want to deposit. Set the return equal to the variable `amount`. Make sure that `amount` is a floating point value.
-
-    * If `amount` is less than or equal to 0.0, exit the system with an error message indicating that it’s not a valid withdrawal amount.
-
-    * Validate that `amount` is less than or equal to `account["balance"]`.
-
-      * If the amount is valid, adjust the `account["balance"]` for the withdrawal, and print a confirmation message and return the adjusted account.
-
-      * If the amount isn't valid, exit the system with an error message that tells the user that they don't have enough money in the account to cover the withdrawal.
-
-3. Run your application!
+3. Navigate into the folder that you cloned from github. Run the [`app.py`](module_2_challenge/app.py) to see which loans you qualify for. 
 
 
 ---
