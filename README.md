@@ -97,7 +97,7 @@ Follow the steps below to see which loans you qualify for.
 
     *Example*
 
-    ![Step 5](https://github.com/pgunter25/module_2_challenge/blob/61efd843511f00dc4622efa5408e0e0f783e1985/images/Screen%20Shot%202022-04-04%20at%202.33.29%20pm.png) 
+    ![Step 5](https://github.com/pgunter25/module_2_challenge/blob/61efd843511f00dc4622efa5408e0e0f783e1985/images/Screen%20Shot%202022-04-04%20at%202.33.29%20pm.png)     
 
 ---
 
