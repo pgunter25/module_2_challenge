@@ -63,8 +63,28 @@ This section should include screenshots, code blocks, or animations explaining h
 ![Step 1](https://github.com/pgunter25/module_2_challenge/blob/9f5bf1ea5fb7f63b13339e508d731f86a974ddc1/images/Screen%20Shot%202022-04-04%20at%2012.13.53%20pm.png)
 
 *Example 
-    ![Sample Path](https://github.com/pgunter25/module_2_challenge/blob/9f5bf1ea5fb7f63b13339e508d731f86a974ddc1/images/Screen%20Shot%202022-04-04%20at%2012.13.53%20pm.png)
+    ![Sample Path](https://github.com/pgunter25/module_2_challenge/blob/1a07ffed2fa2000a2f119f97122e1a01b0035687/images/Screen%20Shot%202022-04-04%20at%2012.18.10%20pm.png)
 
+2. You will then be promoted to fill in details about the loan you are trying to qualify for 
+*What's your credit score? 
+*What's your current amount of monthly debt? 
+*What's your total monthly income? 
+*What's your desired loan amount? 
+*What's your home value? 
+
+![Step 2](https://github.com/pgunter25/module_2_challenge/blob/1a07ffed2fa2000a2f119f97122e1a01b0035687/images/Screen%20Shot%202022-04-04%20at%2012.19.53%20pm.png)
+
+*If there are no loans that you qualify for, you will be notified and the application will exit. 
+
+3. You will be promted to ask if you would like to save the qualified loans to a csv. 
+*Yes, save the results 
+**Continue to Step 4
+
+*No, don't save the results. 
+![Step3](https://github.com/pgunter25/module_2_challenge/blob/1a07ffed2fa2000a2f119f97122e1a01b0035687/images/Screen%20Shot%202022-04-04%20at%2012.21.24%20pm.png)
+
+4. Provide a file path to save the results to. 
+![Step 4]()
 ---
 
 ## Contributors
