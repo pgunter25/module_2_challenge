@@ -58,10 +58,9 @@ This application can be run via the command line.
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+Follow the steps below to see which loans you qualify for. 
 1. When you run the loan qualifier app, it will first prompt you to provide it with the file path for the rate-sheet. 
     ![Step 1](https://github.com/pgunter25/module_2_challenge/blob/9f5bf1ea5fb7f63b13339e508d731f86a974ddc1/images/Screen%20Shot%202022-04-04%20at%2012.13.53%20pm.png)
-
     *Example*
     ![Sample Path](https://github.com/pgunter25/module_2_challenge/blob/1a07ffed2fa2000a2f119f97122e1a01b0035687/images/Screen%20Shot%202022-04-04%20at%2012.18.10%20pm.png)
 
@@ -85,8 +84,9 @@ This section should include screenshots, code blocks, or animations explaining h
 
 4. Provide a file path to save the results to. 
         ![Step 4](https://github.com/pgunter25/module_2_challenge/blob/dbb962b0f6e0d242f4a7212f26cf79dcaf1c75c5/images/Screen%20Shot%202022-04-04%20at%202.04.53%20pm.png)
+    
+        *Example*
 
-        **Example** 
         ![Step 4](https://github.com/pgunter25/module_2_challenge/blob/dbb962b0f6e0d242f4a7212f26cf79dcaf1c75c5/images/Screen%20Shot%202022-04-04%20at%202.05.30%20pm.png)
 
 ---
