@@ -1,4 +1,4 @@
-# Loan Qualifying App with Interactice CLI 
+# Loan Qualifying App with Interactive CLI 
 
 This is a python application that leverages questionary to automate the creation of an interactive command line interface for users to find out which loans they qualify for. 
 
@@ -83,7 +83,7 @@ Follow the steps below to see which loans you qualify for.
     **Yes, save the results. Continue to Step 4**
 
     **No, don't save the results.** 
-    
+
         ![Step3](https://github.com/pgunter25/module_2_challenge/blob/1a07ffed2fa2000a2f119f97122e1a01b0035687/images/Screen%20Shot%202022-04-04%20at%2012.21.24%20pm.png)
 
 4. Provide a file path to save the results to. 
