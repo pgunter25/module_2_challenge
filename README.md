@@ -82,7 +82,7 @@ Follow the steps below to see which loans you qualify for.
 
     **Yes, save the results. Continue to Step 4**
 
-    **No, don't save the results.** 
+    **No, don't save the results. Nothing else will be done and the application will exit.** 
 
     ![Step3](https://github.com/pgunter25/module_2_challenge/blob/1a07ffed2fa2000a2f119f97122e1a01b0035687/images/Screen%20Shot%202022-04-04%20at%2012.21.24%20pm.png)
 
@@ -93,6 +93,8 @@ Follow the steps below to see which loans you qualify for.
 
     ![Step 4](https://github.com/pgunter25/module_2_challenge/blob/dbb962b0f6e0d242f4a7212f26cf79dcaf1c75c5/images/Screen%20Shot%202022-04-04%20at%202.05.30%20pm.png)
 
+5. You can now view your results in the path you provided. 
+    ![Step 5](link) 
 ---
 
 ## Contributors
