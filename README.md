@@ -47,7 +47,11 @@ This application can be run via the command line.
     git clone https://github.com/pgunter25/module_2_challenge.git
     ```
 
-3. Navigate into the folder that you cloned from github. Run the [`app.py`](module_2_challenge/app.py) to see which loans you qualify for. 
+3. Navigate into the folder that you cloned from github. Run [`app.py`](module_2_challenge/app.py) to see which loans you qualify for. 
+
+    ```code
+    python app.py
+    ```
 
 
 ---
