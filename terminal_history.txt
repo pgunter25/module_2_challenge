@@ -1,0 +1,345 @@
+   50  conda update anaconda
+   51  conda create -n dev python=3.7 anaconda
+   52  conda activate dev
+   53  conda init zsh
+   54  conda deactivate
+   55  conda init zsh
+   56  python -m ipykernel install --user --name dev
+   57  conda install -c conda-forge nodejs
+   58  conda activate dev
+   59  conda init bash
+   60  conda init zsh
+   61  python -m ipykernel install --user --name dev
+   62  conda install -c conda-forge nodejs
+   63  conda deactivate
+   64  conda activate dev
+   65  jupyter lab
+   66  conda deactivate
+   67  clear
+   68  conda deactivate
+   69  pwd
+   70  ls
+   71  cd Documents
+   72  mkdir FinTech-Workspace
+   73  ls
+   74  cd FinTech-Workspace
+   75  cd ..
+   76  cd ~
+   77  ls 
+   78  cd Documents
+   79  ls
+   80  python -- version
+   81  cd FinTech-Workspace
+   82  conda activate dev
+   83  python --version
+   84  python hello_python.py
+   85  ls
+   86  cd Python_Project
+   87  ls 
+   88  python hello_python.py
+   89  conda deactivate
+   90  /usr/local/bin/python3 /Users/phoebegunter/Documents/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+   91  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+   92  clear
+   93  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+   94  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+   95  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+   96  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+   97  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+   98  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+   99  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  100  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  101  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  102  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  103  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  104  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  105  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  106  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  107  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  108  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  109  clear
+  110  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  111  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  112  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  113  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  114  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  115  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  116  clear
+  117  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  118  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  119  clear
+  120  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  121  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  122  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  123  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  124  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  125  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  126  clear
+  127  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  128  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  129  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  130  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  131  clear
+  132  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  133  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  134  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  135  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  136  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  137  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  138  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Challenge Lab1/Starter_Code/loan_analyzer.py"
+  139   /usr/bin/env /usr/local/bin/python3 /Users/phoebegunter/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 54459 -- /Users/phoebegunter/Documents/FinTech-Workspace/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+  140   cd /Users/phoebegunter/Documents/FinTech-Workspace ; /usr/bin/env /usr/local/bin/python3 /Users/phoebegunter/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 54469 -- /Users/phoebegunter/Documents/FinTech-Workspace/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+  141   cd /Users/phoebegunter/Documents/FinTech-Workspace ; /usr/bin/env /usr/local/bin/python3 /Users/phoebegunter/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 55052 -- /Users/phoebegunter/Documents/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py 
+  142  pip -v
+  143  pip -V
+  144  clear
+  145  pip freeze
+  146  clear
+  147  conda activate dev
+  148  pip -V
+  149  pip freeze
+  150  clear
+  151  pip install fire
+  152  pip istall questionary
+  153  pip install questionary
+  154  conda deactivate dev
+  155  conda deactivate
+  156  ls
+  157  cd Doc
+  158  cd Documents
+  159  ls
+  160  cd FinTech-Workspace
+  161  ls
+  162  cd Week 2
+  163  cd Week\ 
+  164  cd Week 2 
+  165  ls
+  166  ls
+  167  cd Week2
+  168  ls
+  169  cd Week2
+  170  cd Week2 
+  171  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Week 2 /01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  172  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Week 2 /01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  173  /usr/local/bin/python3 "/Users/phoebegunter/Documents/FinTech-Workspace/Week2 /02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  174  /usr/local/bin/python3 /Users/phoebegunter/Documents/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  175  /usr/local/bin/python3 /Users/phoebegunter/Documents/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  176  /usr/local/bin/python3 /Users/phoebegunter/Documents/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  177  pip install fire
+  178  conda activate dev
+  179  pip install fire
+  180  pip --version
+  181  conda activate dev
+  182  pip --version
+  183  pip install fire
+  184  ls 
+  185  cd Documents
+  186  ls 
+  187  cd FinTech-Workspace
+  188  ls
+  189  ls 
+  190  cd python_fire
+  191  ls 
+  192  python cli.py
+  193  pip install questionary
+  194  conda deactivate
+  195  ls
+  196  cd .. 
+  197  cd.. 
+  198  cd ..
+  199  ls 
+  200  cd .. 
+  201  git config --global user.name Phoebe Gunter
+  202  git config --global user.email phoebe.gunter@gmail.com
+  203  ls 
+  204  git config --list
+  205  ;s 
+  206  ls 
+  207  cd Do
+  208  cd Documents
+  209  ls
+  210  cd FinTech-Workspace
+  211  ls
+  212  cd Week2
+  213  git clone https://github.com/pgunter25/test_repo.git
+  214  ls
+  215  cd test_repo
+  216  ls
+  217  clear 
+  218  ls
+  219  ls
+  220  git status
+  221  git status
+  222  git add README.md 
+  223  git status
+  224  touch new_file.txt
+  225  ls
+  226  git status 
+  227  git add new_file.txt
+  228  git status
+  229  git commit -m "learning github"
+  230  git status
+  231  git push 
+  232  git push 
+  233  git push 
+  234  git push 
+  235  git push 
+  236  git ls 
+  237  ls
+  238  cd Documents
+  239  ls 
+  240  cd FinTech-Workspace
+  241  ls
+  242  git clone
+  243  git clone https://github.com/pgunter25/module_2_challenge.git
+  244  ls
+  245  git add 
+  246  ls
+  247  cd module_2_challenge
+  248  git add 
+  249  git add .
+  250  git status
+  251  git push 
+  252  git commit -m "Added started files"
+  253  git push 
+  254  ls 
+  255  python app.py
+  256  conda activate dev
+  257  python app.py
+  258  ls 
+  259  touch csv.csv
+  260  ls
+  261  python app.py
+  262  python app.py
+  263  python app.py
+  264  python app.py
+  265  git add .
+  266  ls
+  267  git commit -m "added prompt for user to add the csv file loaction for qualifying loans" 
+  268  git status
+  269  git push 
+  270  python app.py
+  271  python app.py
+  272  python app.py
+  273  python app.py
+  274  python app.py
+  275  python app.py
+  276  python app.py
+  277  python app.py
+  278  python app.py
+  279  git add .
+  280  git commit -m "fixed issue with writting to CSV file"
+  281  git push 
+  282  git push 
+  283  python app.py
+  284  python app.py
+  285  python app.py
+  286  python app.py
+  287  git add .
+  288  git status
+  289  git commit -m "added logic to prompt user whether they would like to save the qualifying loans into a CSV file"
+  290  git push
+  291  python app.py
+  292  python app.py
+  293  python app.py
+  294  python app.py
+  295  git add .
+  296  git commit -m "added logic to exit if there are no qualified loans"
+  297  git push 
+  298  git add .
+  299  git commit -m "removed extra function" 
+  300  git push 
+  301  python app.py
+  302  python app.py
+  303  python app.py
+  304  python app.py
+  305  python app.py
+  306  python app.py
+  307  python app.py
+  308  python app.py
+  309  git add .
+  310  git commit -m "separated the save qualifying loan functionality"
+  311  git push 
+  312  git status
+  313  git add .
+  314  git commit -m "working on formatting for ReadMe"
+  315  git push
+  316  git add .
+  317  git commit -m "Fixing formatting for ReadMe"
+  318  git push 
+  319  git add . 
+  320  ls
+  321  git status
+  322  git commit -m "working on formatting and content of readme. Incremental save."
+  323  git push 
+  324  git status
+  325  git add . 
+  326  git commit -m "working on formatting and content of readme. Incremental save."
+  327  git status
+  328  git push 
+  329  git add . 
+  330  git commit -m "fixed formatting bug in readme"
+  331  git push 
+  332  git add .
+  333  git commit -m "fixed formatting issues in readme instructions section"
+  334  git push
+  335  clear
+  336  python app.py
+  337  git status
+  338  git add . 
+  339  git commit -m "adding first photo"
+  340  git push 
+  341  git add . 
+  342  git commit -m "adding photos to the intructions"
+  343  git push 
+  344  clear
+  345  python app.py
+  346  python app.py
+  347  git add .
+  348  git commit -m "added photos for Readme"
+  349  git push 
+  350  python app.py
+  351  git add .
+  352  git commit -m "added additional images to support instructions in readme"
+  353  git push 
+  354  git add .
+  355  git commit -m "Added links to images in the ReadMe"
+  356  git push 
+  357  git add .
+  358  git commit -m "updated formatting in Readme"
+  359  git push 
+  360  git add .
+  361  git commit -m "updated formatting in Readme"
+  362  git push 
+  363  git add .
+  364  git commit -m "fixed bugs in formatting with Readme"
+  365  git push 
+  366  git add .
+  367  git commit -m "Removed bugs from formating of readme"
+  368  git push 
+  369  git add .
+  370  git commit -m "Removed bugs from formating of readme"
+  371  git push 
+  372  git add .
+  373  git commit -m "Final updates to readme" 
+  374  git push 
+  375  git add . 
+  376  git commit -m "fixed typo in title of readme"
+  377  git push 
+  378  git add . 
+  379  git commit -m "Removed bugs from formating of readme"
+  380  git push 
+  381  git add .
+  382  git commit -m "added screenshot for step 5 in readme"
+  383  git push
+  384  git add .
+  385  git commit -m "added final photo for reference"
+  386  git push 
+  387  git add .
+  388  git commit -m "fixed formatting with step 5 in readme"
+  389  git add .
+  390  git commit -m "fixed formatting with step 5 in readme"
+  391  git push 
+  392  git add .
+  393  git commit -m "fixed formatting with step 5 in readme"
+  394  git push 
