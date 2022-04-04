@@ -59,14 +59,14 @@ This application can be run via the command line.
 ## Usage
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
-![<alt text>](<url>)
+![Step 1](<url>)
 
 ---
 
 ## Contributors
 
 Phoebe Gunter ([LinkedIn](https://www.linkedin.com/in/phoebe-gunter-58258251/))
-UC Berekeley FinTech Course ([Course Cirriculum Link](https://bootcamp.berkeley.edu/fintech/curriculum/))
+Starter files for assignment from UC Berekeley FinTech Course ([Course Cirriculum Link](https://bootcamp.berkeley.edu/fintech/curriculum/))
 
 ---
 
