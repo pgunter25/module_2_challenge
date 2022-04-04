@@ -8,9 +8,8 @@ def save_csv(output_path, list):
     #for x in range(len(list)):
         #print(list[x])
 
-    #uses csv writer 
+    #uses csv writer to write the list provided as part of the function call to a CSV. 
     with open(output_path, 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile)
-        # Adds the loans from the inexpensive loan data dictionary into the csv file. 
         for row in list:
            csvwriter.writerow(row)
