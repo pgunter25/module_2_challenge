@@ -86,11 +86,11 @@ Follow the steps below to see which loans you qualify for.
         ![Step3](https://github.com/pgunter25/module_2_challenge/blob/1a07ffed2fa2000a2f119f97122e1a01b0035687/images/Screen%20Shot%202022-04-04%20at%2012.21.24%20pm.png)
 
 4. Provide a file path to save the results to. 
-        ![Step 4](https://github.com/pgunter25/module_2_challenge/blob/dbb962b0f6e0d242f4a7212f26cf79dcaf1c75c5/images/Screen%20Shot%202022-04-04%20at%202.04.53%20pm.png)
+    ![Step 4](https://github.com/pgunter25/module_2_challenge/blob/dbb962b0f6e0d242f4a7212f26cf79dcaf1c75c5/images/Screen%20Shot%202022-04-04%20at%202.04.53%20pm.png)
 
-        *Example*
+    *Example*
 
-        ![Step 4](https://github.com/pgunter25/module_2_challenge/blob/dbb962b0f6e0d242f4a7212f26cf79dcaf1c75c5/images/Screen%20Shot%202022-04-04%20at%202.05.30%20pm.png)
+    ![Step 4](https://github.com/pgunter25/module_2_challenge/blob/dbb962b0f6e0d242f4a7212f26cf79dcaf1c75c5/images/Screen%20Shot%202022-04-04%20at%202.05.30%20pm.png)
 
 ---
 
