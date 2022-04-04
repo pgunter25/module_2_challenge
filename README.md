@@ -62,15 +62,15 @@ This section should include screenshots, code blocks, or animations explaining h
 1. When you run the loan qualifier app, it will first prompt you to provide it with the file path for the rate-sheet. 
     ![Step 1](https://github.com/pgunter25/module_2_challenge/blob/9f5bf1ea5fb7f63b13339e508d731f86a974ddc1/images/Screen%20Shot%202022-04-04%20at%2012.13.53%20pm.png)
 
-        *Example* 
-        ![Sample Path](https://github.com/pgunter25/module_2_challenge/blob/1a07ffed2fa2000a2f119f97122e1a01b0035687/images/Screen%20Shot%202022-04-04%20at%2012.18.10%20pm.png)
+    *Example*
+    ![Sample Path](https://github.com/pgunter25/module_2_challenge/blob/1a07ffed2fa2000a2f119f97122e1a01b0035687/images/Screen%20Shot%202022-04-04%20at%2012.18.10%20pm.png)
 
 2. You will then be promoted to fill in details about the loan you are trying to qualify for 
-    *What's your credit score? 
-    *What's your current amount of monthly debt? 
-    *What's your total monthly income? 
-    *What's your desired loan amount? 
-    *What's your home value? 
+    * What's your credit score? 
+    * What's your current amount of monthly debt? 
+    * What's your total monthly income? 
+    * What's your desired loan amount? 
+    * What's your home value? 
 
     ![Step 2](https://github.com/pgunter25/module_2_challenge/blob/1a07ffed2fa2000a2f119f97122e1a01b0035687/images/Screen%20Shot%202022-04-04%20at%2012.19.53%20pm.png)
 
