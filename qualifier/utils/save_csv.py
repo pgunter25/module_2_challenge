@@ -1,6 +1,7 @@
 from pathlib import Path
 import csv
 
+
 def save_csv(output_path, list):
 
     '''Testing code to see which loans made it into the list. '''
