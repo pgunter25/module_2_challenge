@@ -43,7 +43,7 @@ This application can be run via the command line.
 
 2. Clone the git repo by following the instructions below 
 
-```code
+    ```code
     git clone https://github.com/pgunter25/module_2_challenge.git
     ```
 
