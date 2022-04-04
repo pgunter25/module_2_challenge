@@ -10,11 +10,11 @@ Requirements
 Python v 3.7 
 
 Imports to Application  
-'''import sys
+```import sys
 import fire
 import questionary
 from pathlib import Path
-import csv '''
+import csv ```
 Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
 ---
@@ -36,7 +36,8 @@ This section should include screenshots, code blocks, or animations explaining h
 
 ## Contributors
 
-Phoebe Gunter [LinkedIn](https://www.linkedin.com/in/phoebe-gunter-58258251/)
+Phoebe Gunter ([LinkedIn](https://www.linkedin.com/in/phoebe-gunter-58258251/))
+UC Berekeley FinTech Course ([Course Cirriculum Link](https://bootcamp.berkeley.edu/fintech/curriculum/))
 
 ---
 
